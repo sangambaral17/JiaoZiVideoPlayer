@@ -4,3 +4,5 @@
 Move to [Jzvd/JiaoZiVideoPlayer](https://github.com/Jzvd/JiaoZiVideoPlayer)
 
 Highly customizable Android video framework
+-
+-I am trying to modify this so that i can learn the pull request
